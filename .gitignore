@@ -39,6 +39,7 @@ Thumbs.db
 .env.local
 
 # Private inputs, generated manifests and personal analysis
+/metadata/
 /workspaces/
 /exports/
 /backups/
