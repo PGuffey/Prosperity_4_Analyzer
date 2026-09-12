@@ -1,0 +1,143 @@
+{
+  "seasons": [
+    {
+      "season": "prosperity_4",
+      "rounds": [
+        {
+          "season": "prosperity_4",
+          "round": 1,
+          "days": [
+            -2,
+            -1,
+            0
+          ],
+          "products": [
+            "ASH_COATED_OSMIUM",
+            "INTARIAN_PEPPER_ROOT"
+          ]
+        },
+        {
+          "season": "prosperity_4",
+          "round": 2,
+          "days": [
+            -1,
+            0,
+            1
+          ],
+          "products": [
+            "ASH_COATED_OSMIUM",
+            "INTARIAN_PEPPER_ROOT"
+          ]
+        },
+        {
+          "season": "prosperity_4",
+          "round": 3,
+          "days": [
+            0,
+            1,
+            2
+          ],
+          "products": [
+            "HYDROGEL_PACK",
+            "VELVETFRUIT_EXTRACT",
+            "VEV_4000",
+            "VEV_4500",
+            "VEV_5000",
+            "VEV_5100",
+            "VEV_5200",
+            "VEV_5300",
+            "VEV_5400",
+            "VEV_5500",
+            "VEV_6000",
+            "VEV_6500"
+          ]
+        },
+        {
+          "season": "prosperity_4",
+          "round": 4,
+          "days": [
+            1,
+            2,
+            3
+          ],
+          "products": [
+            "HYDROGEL_PACK",
+            "VELVETFRUIT_EXTRACT",
+            "VEV_4000",
+            "VEV_4500",
+            "VEV_5000",
+            "VEV_5100",
+            "VEV_5200",
+            "VEV_5300",
+            "VEV_5400",
+            "VEV_5500",
+            "VEV_6000",
+            "VEV_6500"
+          ]
+        },
+        {
+          "season": "prosperity_4",
+          "round": 5,
+          "days": [
+            2,
+            3,
+            4
+          ],
+          "products": [
+            "GALAXY_SOUNDS_BLACK_HOLES",
+            "GALAXY_SOUNDS_DARK_MATTER",
+            "GALAXY_SOUNDS_PLANETARY_RINGS",
+            "GALAXY_SOUNDS_SOLAR_FLAMES",
+            "GALAXY_SOUNDS_SOLAR_WINDS",
+            "MICROCHIP_CIRCLE",
+            "MICROCHIP_OVAL",
+            "MICROCHIP_RECTANGLE",
+            "MICROCHIP_SQUARE",
+            "MICROCHIP_TRIANGLE",
+            "OXYGEN_SHAKE_CHOCOLATE",
+            "OXYGEN_SHAKE_EVENING_BREATH",
+            "OXYGEN_SHAKE_GARLIC",
+            "OXYGEN_SHAKE_MINT",
+            "OXYGEN_SHAKE_MORNING_BREATH",
+            "PANEL_1X2",
+            "PANEL_1X4",
+            "PANEL_2X2",
+            "PANEL_2X4",
+            "PANEL_4X4",
+            "PEBBLES_L",
+            "PEBBLES_M",
+            "PEBBLES_S",
+            "PEBBLES_XL",
+            "PEBBLES_XS",
+            "ROBOT_DISHES",
+            "ROBOT_IRONING",
+            "ROBOT_LAUNDRY",
+            "ROBOT_MOPPING",
+            "ROBOT_VACUUMING",
+            "SLEEP_POD_COTTON",
+            "SLEEP_POD_LAMB_WOOL",
+            "SLEEP_POD_NYLON",
+            "SLEEP_POD_POLYESTER",
+            "SLEEP_POD_SUEDE",
+            "SNACKPACK_CHOCOLATE",
+            "SNACKPACK_PISTACHIO",
+            "SNACKPACK_RASPBERRY",
+            "SNACKPACK_STRAWBERRY",
+            "SNACKPACK_VANILLA",
+            "TRANSLATOR_ASTRO_BLACK",
+            "TRANSLATOR_ECLIPSE_CHARCOAL",
+            "TRANSLATOR_GRAPHITE_MIST",
+            "TRANSLATOR_SPACE_GRAY",
+            "TRANSLATOR_VOID_BLUE",
+            "UV_VISOR_AMBER",
+            "UV_VISOR_MAGENTA",
+            "UV_VISOR_ORANGE",
+            "UV_VISOR_RED",
+            "UV_VISOR_YELLOW"
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-12T22:08:10+00:00"
+}

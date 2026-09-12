@@ -1,0 +1,1176 @@
+{
+  "products": [
+    {
+      "name": "ASH_COATED_OSMIUM",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        1,
+        2
+      ],
+      "days": {
+        "1": [
+          -2,
+          -1,
+          0
+        ],
+        "2": [
+          -1,
+          0,
+          1
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "GALAXY_SOUNDS_BLACK_HOLES",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "GALAXY_SOUNDS_DARK_MATTER",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "GALAXY_SOUNDS_PLANETARY_RINGS",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "GALAXY_SOUNDS_SOLAR_FLAMES",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "GALAXY_SOUNDS_SOLAR_WINDS",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "HYDROGEL_PACK",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "INTARIAN_PEPPER_ROOT",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        1,
+        2
+      ],
+      "days": {
+        "1": [
+          -2,
+          -1,
+          0
+        ],
+        "2": [
+          -1,
+          0,
+          1
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "MICROCHIP_CIRCLE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "MICROCHIP_OVAL",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "MICROCHIP_RECTANGLE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "MICROCHIP_SQUARE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "MICROCHIP_TRIANGLE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "OXYGEN_SHAKE_CHOCOLATE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "OXYGEN_SHAKE_EVENING_BREATH",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "OXYGEN_SHAKE_GARLIC",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "OXYGEN_SHAKE_MINT",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "OXYGEN_SHAKE_MORNING_BREATH",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PANEL_1X2",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PANEL_1X4",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PANEL_2X2",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PANEL_2X4",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PANEL_4X4",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PEBBLES_L",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PEBBLES_M",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PEBBLES_S",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PEBBLES_XL",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "PEBBLES_XS",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "ROBOT_DISHES",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "ROBOT_IRONING",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "ROBOT_LAUNDRY",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "ROBOT_MOPPING",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "ROBOT_VACUUMING",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SLEEP_POD_COTTON",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SLEEP_POD_LAMB_WOOL",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SLEEP_POD_NYLON",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SLEEP_POD_POLYESTER",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SLEEP_POD_SUEDE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SNACKPACK_CHOCOLATE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SNACKPACK_PISTACHIO",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SNACKPACK_RASPBERRY",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SNACKPACK_STRAWBERRY",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "SNACKPACK_VANILLA",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "TRANSLATOR_ASTRO_BLACK",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "TRANSLATOR_ECLIPSE_CHARCOAL",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "TRANSLATOR_GRAPHITE_MIST",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "TRANSLATOR_SPACE_GRAY",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "TRANSLATOR_VOID_BLUE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "UV_VISOR_AMBER",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "UV_VISOR_MAGENTA",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "UV_VISOR_ORANGE",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "UV_VISOR_RED",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "UV_VISOR_YELLOW",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        5
+      ],
+      "days": {
+        "5": [
+          2,
+          3,
+          4
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VELVETFRUIT_EXTRACT",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_4000",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_4500",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5000",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5100",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5200",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5300",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5400",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_5500",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_6000",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    },
+    {
+      "name": "VEV_6500",
+      "season": "prosperity_4",
+      "family": null,
+      "rounds": [
+        3,
+        4
+      ],
+      "days": {
+        "3": [
+          0,
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ]
+      },
+      "position_limit": null,
+      "conversion_rule": null
+    }
+  ]
+}

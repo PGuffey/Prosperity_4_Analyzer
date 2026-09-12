@@ -1,0 +1,21 @@
+{
+  "runs": [
+    {
+      "started_at": "2026-09-12T22:08:08+00:00",
+      "finished_at": "2026-09-12T22:08:10+00:00",
+      "season": "prosperity_4",
+      "rounds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "files_processed": 30,
+      "n_price_rows": 2340000,
+      "n_trade_rows": 48381,
+      "status": "ok",
+      "notes": "[info] prices_round_1_day_-2.csv: prices: 826 rows with no bid_1\n[info] prices_round_1_day_-2.csv: prices: 805 rows with no ask_1\n[info] trades_round_1_day_-2.csv: trades: 1/773 rows outside visible [bid_1, ask_1] at their timestamp\n[info] prices_round_1_day_-1.csv: prices: 813 rows with no bid_1\n[info] prices_round_1_day_-1.csv: prices: 777 rows with no ask_1\n[info] trades_round_1_day_-1.csv: trades: 2/760 rows outside visible [bid_1, ask_1] at their timestamp\n[info] prices_round_1_day_0.csv: prices: 781 rows with no bid_1\n[info] prices_round_1_day_0.csv: prices: 769 rows with no ask_1\n[info] trades_round_1_day_0.csv: trades: 2/743 rows outside visible [bid_1, ask_1] at their timestamp\n[info] prices_round_2_day_-1.csv: prices: 759 rows with no bid_1\n[info] prices_round_2_day_-1.csv: prices: 786 rows with no ask_1\n[info] trades_round_2_day_-1.csv: trades: 2/790 rows outside visible [bid_1, ask_1] at their timestamp\n[info] prices_round_2_day_0.csv: prices: 795 rows with no bid_1\n[info] prices_round_2_day_0.csv: prices: 752 rows with no ask_1\n[info] trades_round_2_day_0.csv: trades: 5/803 rows outside visible [bid_1, ask_1] at their timestamp\n[info] prices_round_2_day_1.csv: prices: 776 rows with no bid_1\n[info] prices_round_2_day_1.csv: prices: 800 rows with no ask_1\n[info] trades_round_2_day_1.csv: trades: 3/798 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_3_day_0.csv: trades: 1/1308 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_3_day_1.csv: trades: 3/1407 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_3_day_2.csv: trades: 2/1333 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_4_day_1.csv: trades: 3/1407 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_4_day_2.csv: trades: 2/1333 rows outside visible [bid_1, ask_1] at their timestamp\n[info] trades_round_4_day_3.csv: trades: 4/1541 rows outside visible [bid_1, ask_1] at their timestamp"
+    }
+  ]
+}

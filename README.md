@@ -41,10 +41,9 @@ pnpm install --frozen-lockfile
 cd ..
 ```
 
-### Bring your own competition data
+### Competition data
 
-Datasets, generated manifests and personal workspaces are not distributed.
-Use data you have permission to use. Place supplied CSVs in this layout:
+If you want to use other data. Ensure its formatted like Prosperity data and place the CSVs in this layout:
 
 ```text
 data/<season>/round_<N>/prices_round_<N>_day_<D>.csv

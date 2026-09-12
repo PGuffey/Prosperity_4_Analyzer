@@ -22,7 +22,6 @@ dist/
 web/dist-pass1/
 
 # Generated data
-data/processed/
 workspaces/hypothesis_log.sqlite
 workspaces/hypothesis_log.sqlite-journal
 workspaces/hypothesis_log.sqlite-wal
@@ -40,8 +39,6 @@ Thumbs.db
 .env.local
 
 # Private inputs, generated manifests and personal analysis
-/data/
-/metadata/
 /workspaces/
 /exports/
 /backups/
@@ -78,7 +75,6 @@ secrets*.json
 *.log
 *.sqlite*
 *.db
-*.parquet
 *.zip
 coverage/
 .coverage*
