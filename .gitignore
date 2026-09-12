@@ -58,6 +58,7 @@ Thumbs.db
 /UI_POLISH_PLAN.md
 /CHANGELOG.md
 /PUBLICATION_AUDIT.md
+/PUBLISHING.md
 
 # Credentials and local configuration (review examples before publishing)
 .env.*
