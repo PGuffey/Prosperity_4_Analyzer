@@ -1,0 +1,54 @@
+[project]
+name = "pma"
+version = "0.0.1"
+description = "Prosperity Market Analyzer — hypothesis-testing workbench for IMC Prosperity simulated markets."
+requires-python = ">=3.12"
+readme = "README.md"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "polars>=1.12",
+    "duckdb>=1.1",
+    "pyarrow>=18.0",
+    "pydantic>=2.9",
+    "typer>=0.13",
+    "python-dotenv>=1.0",
+    "numpy>=1.26",
+    "scipy>=1.13",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "pytest-cov>=6.0",
+    "ruff>=0.7",
+    "mypy>=1.13",
+    "httpx>=0.27",
+]
+
+[project.scripts]
+pma = "pma.cli:app"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["pma*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "N", "SIM", "RUF"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[[tool.mypy.overrides]]
+# SciPy has no bundled type hints; continue checking our own analysis code.
+module = ["scipy.*"]
+ignore_missing_imports = true

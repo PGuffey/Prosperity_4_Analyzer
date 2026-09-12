@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+.venv-pass1/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+web/dist-pass1/
+
+# Generated data
+data/processed/
+workspaces/hypothesis_log.sqlite
+workspaces/hypothesis_log.sqlite-journal
+workspaces/hypothesis_log.sqlite-wal
+workspaces/hypothesis_log.sqlite-shm
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Private inputs, generated manifests and personal analysis
+/data/
+/metadata/
+/workspaces/
+/exports/
+/backups/
+
+# Local assistant state and internal working documents
+/.claude/
+/.codex/
+/.agents/
+/HANDOFF.md
+/IMPLEMENTATION_DOCUMENT.md
+/PROJECT_OVERVIEW_AND_ROADMAP.md
+/BASKET_ANALYSIS_PLAN.md
+/UI_GUIDE.md
+/UI_POLISH_PLAN.md
+/CHANGELOG.md
+/PUBLICATION_AUDIT.md
+
+# Credentials and local configuration (review examples before publishing)
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+.npmrc
+.pypirc
+
+# Environments, caches, databases, exports and build state
+.venv*/
+*.tsbuildinfo
+*.log
+*.sqlite*
+*.db
+*.parquet
+*.zip
+coverage/
+.coverage*
+htmlcov/
+web/dist*/

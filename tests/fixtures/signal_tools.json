@@ -1,0 +1,9 @@
+{
+  "mids": [100, 110, null, 120, 130],
+  "cases": [
+    {"id": "fixed_deviation", "params": {"reference": 100}, "expected": [0, 10, null, 20, 30]},
+    {"id": "sma_deviation", "params": {"window": 2}, "expected": [null, 5, null, null, 5]},
+    {"id": "ema_deviation", "params": {"window": 3}, "expected": [null, null, null, 7.5, 8.75]},
+    {"id": "microprice_gap", "params": {}, "expected": [0.5, 0.5, null, 0.5, 0.5]}
+  ]
+}
